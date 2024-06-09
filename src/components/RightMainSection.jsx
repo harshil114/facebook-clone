@@ -28,9 +28,8 @@ export default function RightMainSection() {
       <div className="text-center w-1/4">
         <span class="absolute -bottom-12 text-sm">
           <span class="font-bold hover:underline cursor-pointer">
-            Create a Page for
-          </span>
-          a celebrity, brand or business.
+            Create a Page 
+          </span> for a celebrity, brand or business.
         </span>
       </div>
     </div>
