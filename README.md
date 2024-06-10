@@ -8,4 +8,4 @@
 - HTML5
 - CSS3
 
-Visit here for [Live App](https://facebookclone-hv.netlify.app/)
+Visit here for [Live App](https://fbclone-hv.netlify.app/)
